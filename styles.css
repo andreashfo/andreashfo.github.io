@@ -30,6 +30,7 @@ body {
   display: block;
   float: right;
   margin-top: 0;
+  font-weight: bold;
 }
 
 #header-nav li {
