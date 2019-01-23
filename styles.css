@@ -22,7 +22,7 @@ body {
   display: block;
   float: left;
 
-  font-size: 20px;
+  font-size: 24px;
   font-weight: bold;
 }
 
@@ -30,6 +30,8 @@ body {
   display: block;
   float: right;
   margin-top: 0;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 #header-nav li {
@@ -39,7 +41,6 @@ body {
 
 #header a {
   color: white;
-  font-weight: bold;
   text-decoration: none;
 
   text-transform: uppercase;
