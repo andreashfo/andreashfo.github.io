@@ -47,6 +47,7 @@ body {
 
 #header a:hover {
   color: #222;
+  font-weight:bold;
 }
 
 #footer {
@@ -86,7 +87,7 @@ a:hover {
 }
 
 .about {
-  text-align: center;
+  text-align: left;
 }
 
 .post-author img {
@@ -97,9 +98,8 @@ a:hover {
 }
 
 .about-author img {
-  width: 300px;
-  height: 400px;
-  border-radius: 10%;
+  width: 25%;
+  height: 60%;
 }
 
 .post-author span {
