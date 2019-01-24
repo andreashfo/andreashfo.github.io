@@ -58,11 +58,11 @@ body {
 
 #footer {
   background-color: #2f2f2f;
-  padding: 50px 0;
+  padding: 35px 0;
 }
 
-.column {
-  min-width: 300px;
+.column, .LI-profile-badge, .LI-simple-link {
+  width: 300px;
   display: inline-block;
   vertical-align: top;
 }
@@ -100,7 +100,6 @@ a:hover {
   display: inline;
   padding-left: 20px;
 }
-
 
 .post-author img {
   width: 50px;
