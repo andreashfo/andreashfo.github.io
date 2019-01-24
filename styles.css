@@ -1,11 +1,12 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body {
   margin: 0;
   color: #555;
   margin-top: 80px;
+  margin-bottom:
 
-  font-family: 'Roboto', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 #header {
@@ -15,7 +16,6 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  margin-left: -2px;
 }
 
 .container {
@@ -59,6 +59,7 @@ body {
 #footer {
   background-color: #2f2f2f;
   padding: 50px 0;
+  bottom: 0px;
 }
 
 .column {
