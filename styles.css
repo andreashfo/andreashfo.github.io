@@ -57,12 +57,12 @@ body {
 
 #footer {
   background-color: #2f2f2f;
-  padding: 50px 0;
-  bottom: 0px;
+  padding: 10px 0;
+
 }
 
 .column {
-  min-width: 300px;
+  min-width: 200px;
   display: inline-block;
   vertical-align: top;
 }
@@ -87,7 +87,7 @@ a:hover {
 }
 
 .post, .about {
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 45px 0;
 }
@@ -116,7 +116,6 @@ a:hover {
 .post-author span {
   margin-left: 16px;
 }
-
 
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
