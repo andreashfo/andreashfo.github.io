@@ -4,7 +4,6 @@ body {
   margin: 0;
   color: #555;
   margin-top: 80px;
-  margin-bottom:
 
   font-family: "Montserrat", sans-serif;
 }
@@ -19,7 +18,7 @@ body {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
@@ -118,9 +117,6 @@ a:hover {
   margin-left: 16px;
 }
 
-.CV-content2:nth-child(even) {
-  background-color: #dd8508
-}
 
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
