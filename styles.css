@@ -92,8 +92,6 @@ a:hover {
   padding: 45px 0;
 }
 
-
-
 .about {
   text-align: left;
 }
@@ -102,7 +100,6 @@ a:hover {
   display: inline;
   padding-left: 20px;
 }
-
 
 
 .post-author img {
@@ -119,6 +116,10 @@ a:hover {
 
 .post-author span {
   margin-left: 16px;
+}
+
+.CV-content2:nth-child(even) {
+  background-color: #dd8508
 }
 
 .post-container:nth-child(even) {
