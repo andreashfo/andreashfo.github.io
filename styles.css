@@ -75,6 +75,7 @@ body {
 
 #footer p {
   color: #1abc9c;
+  font-size: 12px;
 }
 
 a {
@@ -94,11 +95,6 @@ a:hover {
 
 .about {
   text-align: left;
-}
-
-.CV-content {
-  display: inline;
-  padding-left: 20px;
 }
 
 .post-author img {
